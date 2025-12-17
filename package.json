@@ -1,8 +1,14 @@
 {
   "name": "java-attach-by-port",
-  "displayName": "java-attach-by-port",
+  "displayName": "Java Debug: Attach to running process by port",
   "description": "Attach to running Java debug port",
-  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chuwee/java-attach-by-port"
+  },
+  "version": "1.0.0",
+  "icon": "",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.107.0"
   },
